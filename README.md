@@ -74,5 +74,5 @@ Deploying model using Flask
 
 👨‍💻 Author
 
-Lambert Beirut
+Neelesh jain
 Engineering Student | Python Developer | Aspiring Data Scientist
